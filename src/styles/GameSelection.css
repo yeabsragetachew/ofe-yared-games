@@ -1,0 +1,77 @@
+.game-selection-wrapper {
+  padding: 1rem;
+  background-color: #f9fafb;
+  align-items: center;
+  align-content: center;
+  min-height: 100vh;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.greeting {
+  font-size: 1.5rem;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  color: #333;
+  margin-bottom: 2rem;
+}
+
+.category-title {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  text-align: center;
+  padding-left: 0.5rem;
+  font-weight: bold;
+}
+
+.brilliant-title {
+  color: #2563eb;
+}
+
+.lucky-title {
+  color: #16a34a;
+}
+
+.game-cards {
+  display: flex;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  overflow-x: auto;
+  gap: 1rem;
+  padding: 0.5rem 0;
+  margin-bottom: 2rem;
+}
+
+.game-card {
+  min-width: 140px;
+  background-color: white;
+  border-radius: 0.75rem;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  text-align: center;
+  align-items: center;
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: transform 0.2s;
+}
+
+.game-card:hover {
+  transform: scale(1.05);
+}
+
+.game-image {
+  width: 100%;
+  height: 100px;
+  object-fit: cover;
+  border-top-left-radius: 0.75rem;
+  border-top-right-radius: 0.75rem;
+  align-items: center;
+}
+
+.game-name {
+  padding: 0.5rem;
+  font-weight: 500;
+  color: #111827;
+  align-items: center;
+}
