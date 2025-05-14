@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/yeabsragetachew/ofe-yared-games.git/static/css/main.8720f873.css",
-    "main.js": "/yeabsragetachew/ofe-yared-games.git/static/js/main.49efac9a.js",
-    "index.html": "/yeabsragetachew/ofe-yared-games.git/index.html",
-    "main.8720f873.css.map": "/yeabsragetachew/ofe-yared-games.git/static/css/main.8720f873.css.map",
-    "main.49efac9a.js.map": "/yeabsragetachew/ofe-yared-games.git/static/js/main.49efac9a.js.map"
+    "main.css": "/ofe-yared-games/static/css/main.8720f873.css",
+    "main.js": "/ofe-yared-games/static/js/main.49efac9a.js",
+    "index.html": "/ofe-yared-games/index.html",
+    "main.8720f873.css.map": "/ofe-yared-games/static/css/main.8720f873.css.map",
+    "main.49efac9a.js.map": "/ofe-yared-games/static/js/main.49efac9a.js.map"
   },
   "entrypoints": [
     "static/css/main.8720f873.css",
