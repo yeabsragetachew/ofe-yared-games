@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ofe-yared-games/static/css/main.8720f873.css",
-    "main.js": "/ofe-yared-games/static/js/main.31c90bab.js",
+    "main.js": "/ofe-yared-games/static/js/main.cb2ace7f.js",
     "index.html": "/ofe-yared-games/index.html",
     "main.8720f873.css.map": "/ofe-yared-games/static/css/main.8720f873.css.map",
-    "main.31c90bab.js.map": "/ofe-yared-games/static/js/main.31c90bab.js.map"
+    "main.cb2ace7f.js.map": "/ofe-yared-games/static/js/main.cb2ace7f.js.map"
   },
   "entrypoints": [
     "static/css/main.8720f873.css",
-    "static/js/main.31c90bab.js"
+    "static/js/main.cb2ace7f.js"
   ]
 }
